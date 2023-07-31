@@ -1,4 +1,4 @@
-export const currencyByRupee: Currency[] = [
+export const currencyDataCard: Currency[] = [
   {
     name: 'DOLLAR',
     flag: '🇺🇸',
@@ -46,11 +46,5 @@ export const currencyByRupee: Currency[] = [
     flag: '🇰🇼',
     symbol: 'KD',
     code: 'KWD',
-  },
-  {
-    name: 'BITCOIN',
-    flag: '🎰',
-    symbol: '₿',
-    code: 'BTC',
   },
 ];
